@@ -1,0 +1,170 @@
+{
+  "updated": "2026-10-28T20:43:11.156587+00:00",
+  "feeds": [
+    {
+      "id": "bbc-6me",
+      "name": "BBC 6 Minute English",
+      "url": "https://podcasts.files.bbci.co.uk/p02pc9tn.rss",
+      "items": [
+        {
+          "title": "What should you eat for a better night’s sleep?",
+          "link": "http://www.bbc.co.uk/programmes/p0phz9z7",
+          "date": "Thu, 22 Oct 2026 09:56:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phyzz9.mp3"
+        },
+        {
+          "title": "Why has gold got so expensive?",
+          "link": "http://www.bbc.co.uk/programmes/p0pgs2w6",
+          "date": "Thu, 15 Oct 2026 09:24:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgs15w.mp3"
+        },
+        {
+          "title": "Are people drinking less alcohol?",
+          "link": "http://www.bbc.co.uk/programmes/p0pflmn5",
+          "date": "Thu, 08 Oct 2026 08:28:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfllv6.mp3"
+        },
+        {
+          "title": "Why does heartbreak hurt so much?",
+          "link": "http://www.bbc.co.uk/programmes/p0pdc9cq",
+          "date": "Thu, 01 Oct 2026 09:47:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdc7mz.mp3"
+        },
+        {
+          "title": "Why do we itch?",
+          "link": "http://www.bbc.co.uk/programmes/p0pc61lm",
+          "date": "Thu, 24 Sep 2026 07:47:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc618w.mp3"
+        },
+        {
+          "title": "Is rejection good for us?",
+          "link": "http://www.bbc.co.uk/programmes/p0pb0rd0",
+          "date": "Thu, 17 Sep 2026 08:34:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb0qlf.mp3"
+        },
+        {
+          "title": "Can apps teach you a language?",
+          "link": "http://www.bbc.co.uk/programmes/p0p8w5sh",
+          "date": "Thu, 10 Sep 2026 07:46:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8w5by.mp3"
+        },
+        {
+          "title": "Climate change and extreme weather",
+          "link": "http://www.bbc.co.uk/programmes/p0p7p9b8",
+          "date": "Thu, 03 Sep 2026 08:33:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7p91r.mp3"
+        }
+      ]
+    },
+    {
+      "id": "bbc-globalnews",
+      "name": "BBC Global News Podcast",
+      "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
+      "items": [
+        {
+          "title": "Dozens killed in train crash in Spain",
+          "link": "http://www.bbc.co.uk/programmes/p0pk3hmm",
+          "date": "Wed, 28 Oct 2026 16:28:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk3gws.mp3"
+        },
+        {
+          "title": "Israel election too close to call",
+          "link": "http://www.bbc.co.uk/programmes/p0pjz1m1",
+          "date": "Wed, 28 Oct 2026 05:23:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjz1h1.mp3"
+        },
+        {
+          "title": "Huge turnout in Israeli election",
+          "link": "http://www.bbc.co.uk/programmes/p0pjwfwn",
+          "date": "Tue, 27 Oct 2026 16:30:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjw48x.mp3"
+        },
+        {
+          "title": "Israel holds first election since October 7th attacks",
+          "link": "http://www.bbc.co.uk/programmes/p0pjrnd4",
+          "date": "Tue, 27 Oct 2026 05:28:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjrn53.mp3"
+        },
+        {
+          "title": "What's next for China after Xi Jinping?",
+          "link": "http://www.bbc.co.uk/programmes/p0pjpv9t",
+          "date": "Tue, 27 Oct 2026 00:01:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjptfq.mp3"
+        },
+        {
+          "title": "Leaderless student movement wins Serbian election",
+          "link": "http://www.bbc.co.uk/programmes/p0pjpv1c",
+          "date": "Mon, 26 Oct 2026 16:31:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjptg9.mp3"
+        },
+        {
+          "title": "Brazil's President Lula defeats Bolsonaro",
+          "link": "http://www.bbc.co.uk/programmes/p0pjlyh7",
+          "date": "Mon, 26 Oct 2026 05:37:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjlxzm.mp3"
+        },
+        {
+          "title": "The Global Story: They were loyal Democrats. Then came Gaza",
+          "link": "http://www.bbc.co.uk/programmes/p0pj7lzx",
+          "date": "Sun, 25 Oct 2026 20:00:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj7lrp.mp3"
+        }
+      ]
+    },
+    {
+      "id": "cnn10",
+      "name": "CNN 10",
+      "url": "https://feeds.megaphone.fm/WMHY2232473209",
+      "items": [
+        {
+          "title": "How a Student-Led Movement Ousted Serbia’s Long-Term President",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7594466691.mp3",
+          "date": "Wed, 28 Oct 2026 11:57:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7594466691.mp3"
+        },
+        {
+          "title": "America Welcomes Its 64th National Park in Arizona",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7956413658.mp3",
+          "date": "Tue, 27 Oct 2026 14:37:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7956413658.mp3"
+        },
+        {
+          "title": "These Tiny Computer Chips Could Help Data Centers Waste Less Power",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5535306404.mp3",
+          "date": "Mon, 26 Oct 2026 14:06:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5535306404.mp3"
+        },
+        {
+          "title": "How This Burger Joint Is Surviving Record High Beef Prices",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7776465562.mp3",
+          "date": "Fri, 23 Oct 2026 15:57:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7776465562.mp3"
+        },
+        {
+          "title": "Why a Chemical Explosion Evacuated Hundreds in Ohio",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY9046817687.mp3",
+          "date": "Thu, 22 Oct 2026 12:22:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY9046817687.mp3"
+        },
+        {
+          "title": "Why a Surprise Blood Clot Diagnosis Is Sidelining One of the Nfl’s Biggest Stars",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2051038333.mp3",
+          "date": "Wed, 21 Oct 2026 13:15:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2051038333.mp3"
+        },
+        {
+          "title": "A New Mars Mission Aims to Uncover the Mysteries of Its Moons",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3623762219.mp3",
+          "date": "Tue, 20 Oct 2026 12:42:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3623762219.mp3"
+        },
+        {
+          "title": "Make it Make Cents: Student Loans",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5057393798.mp3",
+          "date": "Mon, 19 Oct 2026 13:15:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5057393798.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>听写工作台 · 听力口语 7+ 训练营</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛠</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+<style>
+#line-list { max-height: 300px; overflow-y: auto; margin: 10px 0; padding: 6px; border: 1px solid var(--line); border-radius: 10px; background: var(--card); }
+#line-list .line { padding: 5px 10px; border-radius: 8px; cursor: pointer; font-size: 14px; color: var(--muted); }
+#line-list .line.current { background: var(--accent-soft); color: var(--accent-strong); }
+#drop-zone { border: 2px dashed var(--line); border-radius: var(--radius); padding: 26px 20px; text-align: center; color: var(--muted); cursor: pointer; }
+#drop-zone:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+<header class="topbar"><div class="topbar-inner">
+  <a class="brand" href="index.html">听力口语 <span>7+</span> 训练营</a>
+  <nav>
+    <a href="index.html">首页</a>
+    <a href="roadmap.html">路线图</a>
+    <a href="listening.html">听力训练</a>
+    <a href="practice.html">听写工作台</a>
+    <a href="materials.html">听力素材</a>
+    <a href="tv-shows.html">英美剧</a>
+    <a href="speaking.html">口语训练</a>
+    <a href="resources.html">资源库</a>
+  </nav>
+</div></header>
+
+<main class="wrap">
+
+<section class="hero">
+  <h1>听写工作台 🛠</h1>
+  <p class="lead">把任何一段音频变成精听材料：<b>本地音频 + 自备原文</b>，逐句听写、对答案、标错因。全部在你的浏览器里运行，音频不上传、不联网，历史正确率存在本机。</p>
+</section>
+
+<div class="callout ok">✅ 推荐原料：BBC 6 Minute English / CNN 10 官网或播客下载的音频（见 <a href="materials.html">素材库</a>），或用 Whisper 把你手头任何音频转成逐字稿（方法见 <a href="listening.html#whisper">这里</a>）。剑桥真题音频请使用你购买的正版资料。</div>
+
+<div class="bench">
+  <div>
+    <div id="drop-zone">
+      🎵 把音频文件拖到这里，或
+      <input type="file" id="audio-file" accept="audio/*" style="display:none">
+      <button type="button" onclick="document.getElementById('audio-file').click()">选择文件</button>
+      <div id="file-hint" class="small" style="margin-top:8px">支持 mp3 / m4a / wav 等浏览器可播放的格式</div>
+    </div>
+
+    <h3 style="margin-top:20px">第二步：粘贴原文（每行一句）</h3>
+    <textarea id="transcript" placeholder="I've been living here for about three years now.
+The rent is quite reasonable compared to the city centre.
+…"></textarea>
+    <div style="margin-top:10px"><button class="btn" id="load-text">载入原文，开始听写 →</button></div>
+  </div>
+
+  <div class="card" id="bench-body" style="display:none">
+    <h3 style="margin-top:0">第三步：逐句听写</h3>
+    <audio id="audio" controls preload="metadata"></audio>
+
+    <div class="bench-controls">
+      <select id="speed">
+        <option value="0.5">0.5×</option>
+        <option value="0.75">0.75×</option>
+        <option value="1" selected>1.0×</option>
+        <option value="1.25">1.25×</option>
+        <option value="1.5">1.5×</option>
+        <option value="2">2.0×</option>
+      </select>
+      <button id="btn-play">▶ 播放</button>
+      <button id="btn-replay">⏪ 重放本段</button>
+      <button id="btn-a">设 A 点</button><span class="marks" id="mark-a">A: --.-</span>
+      <button id="btn-b">设 B 点</button><span class="marks" id="mark-b">B: --.-</span>
+      <button id="btn-clear-ab">清除 A/B</button>
+      <button id="btn-loop">🔁 循环关</button>
+    </div>
+    <p class="small" style="margin:6px 0 0">快捷键：<span class="kbd">Space</span> 播放/暂停（在输入框外） · <span class="kbd">Alt+Q</span> 设 A · <span class="kbd">Alt+W</span> 设 B。先播放到句子开头按设 A 点，句尾按设 B 点，再开循环反复听。</p>
+
+    <hr class="sep">
+
+    <div style="display:flex;justify-content:space-between;align-items:center">
+      <b id="idx-label">第 1 句</b>
+      <span class="small">进度 <b id="progress">0 / 0</b> 句 · 听写正确率 <b id="acc">--</b></span>
+    </div>
+    <div id="line-list"></div>
+
+    <input type="text" id="answer-input" placeholder="把你听到的句子打在这里（Enter 直接对答案）">
+    <div id="answer-box" class="answer-box" style="margin-top:10px"><div class="empty">先点「载入原文」开始。</div></div>
+
+    <div class="bench-controls" style="margin-top:10px">
+      <button id="btn-reveal">对答案</button>
+      <div id="mark-btns" style="display:none;gap:6px">
+        <button id="m-ok" class="primary">✅ 全对</button>
+        <button id="m-close">🟡 拼写/单复数错</button>
+        <button id="m-miss">❌ 没听出</button>
+      </div>
+      <button id="btn-prev">← 上一句</button>
+      <button id="btn-next">下一句 →</button>
+    </div>
+
+    <h3 style="margin-top:22px">最近 7 天</h3>
+    <div class="stat-row" id="hist"></div>
+  </div>
+</div>
+
+<h2>怎么用效果最好</h2>
+<ol class="steps">
+  <li><b>听前不看原文</b>：设好 A/B 点，循环听 2–3 遍，把听到的打字打出来。放不出来就空着，别硬猜。</li>
+  <li><b>对答案必标错因</b>：全对 / 拼写错 / 没听出——分类比分数重要，错因会告诉你下周练什么（对应 <a href="listening.html#errors">错因分类表</a>）。</li>
+  <li><b>对完答案立刻跟读</b>：把刚才没听出的句子跟读到语气一致，再重听一遍整段——这是把"眼睛词汇"变成"耳朵词汇"的临门一脚。</li>
+  <li><b>48 小时后回来重听</b>：点击右侧句单里同一句，重测自己还听不听得出。听盲词本 + 重听，胜过盲目做新题。</li>
+</ol>
+
+</main>
+
+<footer>
+  <p><b>听力口语 7+ 训练营</b> · 本工具纯前端运行，音频与文本不会离开你的设备。</p>
+  <p>请使用有权使用的音频（官方免费资源、自制录音、正版资料），勿用于传播受版权保护的内容。</p>
+</footer>
+
+<script src="assets/practice.js"></script>
+</body>
+</html>
