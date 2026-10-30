@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:06:06.680328+00:00",
+  "updated": "2026-10-30T20:07:57.318231+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,7 +55,7 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8w5by.mp3"
         }
       ],
-      "fetched_at": "2026-10-30T20:06:06.680328+00:00"
+      "fetched_at": "2026-10-30T20:07:57.318231+00:00"
     },
     {
       "id": "bbc-globalnews",
@@ -111,7 +111,7 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjrn53.mp3"
         }
       ],
-      "fetched_at": "2026-10-30T20:06:06.680328+00:00"
+      "fetched_at": "2026-10-30T20:07:57.318231+00:00"
     },
     {
       "id": "cnn10",
@@ -167,7 +167,7 @@
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2051038333.mp3"
         }
       ],
-      "fetched_at": "2026-10-30T20:06:06.680328+00:00"
+      "fetched_at": "2026-10-30T20:07:57.318231+00:00"
     }
   ]
 }
