@@ -82,28 +82,21 @@
   }
 
   /* ---------- 素材页：最新更新（由 GitHub Actions 每日抓取） ---------- */
+  /* 安全渲染：标题/链接来自外部 RSS，统一走 LS7Core.renderFeedList
+     （textContent + 链接协议白名单），不使用 innerHTML。 */
   var feeds = document.querySelector("[data-feeds]");
   if (feeds) {
     fetch("data/latest.json", { cache: "no-store" })
       .then(function (r) { return r.ok ? r.json() : null; })
       .then(function (j) {
-        if (!j || !j.feeds) return;
-        var html = "";
-        j.feeds.forEach(function (f) {
-          if (!f.items || !f.items.length) return;
-          html += '<div class="card"><h3>' + f.name + "</h3>";
-          html += '<ul style="padding-left:20px;margin:8px 0 0">';
-          f.items.slice(0, 6).forEach(function (it) {
-            html += '<li><a href="' + it.link + '" target="_blank" rel="noopener">' + it.title + "</a>";
-            if (it.date) html += '<span class="feed-date">' + it.date.slice(0, 10) + "</span>";
-            html += "</li>";
-          });
-          html += "</ul></div>";
-        });
-        if (html) {
-          feeds.innerHTML = '<div class="grid c3">' + html + "</div>" +
-            '<p class="small" style="text-align:center;margin-top:8px">由 GitHub Actions 每日自动更新 · 抓取于 ' + (j.updated || "").slice(0, 10) + "</p>";
-        }
+        if (!j || !j.feeds || !window.LS7Core) return;
+        window.LS7Core.renderFeedList(document, feeds, j.feeds, 6);
+        var note = document.createElement("p");
+        note.className = "small";
+        note.style.textAlign = "center";
+        note.style.marginTop = "8px";
+        note.textContent = "由 GitHub Actions 每日自动更新（源失败时保留上次成功数据）· 抓取于 " + (j.updated || "").slice(0, 10);
+        feeds.appendChild(note);
       })
       .catch(function () {});
   }

@@ -2,96 +2,12 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>水平定位测试 · 3 分钟定档 · 听力口语 9 分训练营</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
-<link rel="stylesheet" href="assets/style.css">
-<style>
-.module { margin: 22px 0; }
-.module h3 { margin-top: 0; }
-.vrow, .lrow, .srow { border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; margin: 10px 0; background: var(--card); }
-.vmeta b { display: block; font-size: 14px; color: var(--accent-strong); }
-.vmeta span { color: var(--muted); font-size: 15px; letter-spacing: .3px; }
-.vbtns, .lbtns, .sbtns { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
-.vbtns button, .lbtns button, .sbtns button {
-  padding: 7px 14px; border-radius: 999px; border: 1.5px solid var(--line);
-  background: var(--card); color: var(--ink); font-size: 14px; cursor: pointer;
-}
-.vbtns button:hover, .lbtns button:hover, .sbtns button:hover { border-color: var(--accent); }
-.vbtns button.picked, .lbtns button.picked, .sbtns button.picked { background: var(--accent); border-color: var(--accent); color: #fff; }
-.lrow .play { font-weight: 700; }
-.lrow .play:disabled { opacity: .45; cursor: not-allowed; }
-.lhead { display: flex; justify-content: space-between; align-items: baseline; }
-.srow p { margin: 0 0 4px; font-size: 15px; }
-.res-grid { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 14px; }
-.verdict { font-size: 16px; }
-</style>
+<meta http-equiv="refresh" content="0; url=placement.html">
+<title>页面已迁移 · 听力口语 9 分训练营</title>
+<link rel="canonical" href="placement.html">
 </head>
 <body>
-<header class="topbar"><div class="topbar-inner">
-  <a class="brand" href="index.html">听力口语 <span>9</span> 分训练营</a>
-  <nav>
-    <a href="index.html">首页</a>
-    <a href="roadmap.html">路线图</a>
-    <a href="tiers.html">分档训练</a>
-    <a href="test.html">水平测试</a>
-    <a href="listening.html">听力训练</a>
-    <a href="practice.html">听写工作台</a>
-    <a href="materials.html">听力素材</a>
-    <a href="tv-shows.html">英美剧</a>
-    <a href="speaking.html">口语训练</a>
-    <a href="resources.html">资源库</a>
-  </nav>
-</div></header>
-
-<main class="wrap">
-
-<section class="hero">
-  <h1>3 分钟水平定位测试 🎯</h1>
-  <p class="lead">先测后练：三个模块分别测<b>词汇量（词频分级）</b>、<b>盲听（浏览器语音合成，无需任何音频文件）</b>、<b>口语自评（对照官方评分标准）</b>。测完按「短板定档」——听力口语提升速度由最弱的一维决定，直接告诉你从哪一档开始、哪个维度不用降速练。</p>
-</section>
-
-<div class="callout warn" id="tts-warn" style="display:none">⚠️ 你的浏览器不支持语音合成，模块 B 请改用 <a href="materials.html">素材库</a> 里的免费音频自测：分别听一段 BBC 6 Minute English 与一集播客访谈，凭"听懂比例"回到本页标记。</div>
-<div class="callout" id="last-result" style="display:none"></div>
-
-<div class="module card">
-  <h3>模块 A · 词汇量估算</h3>
-  <p class="small">从上往下看这五行词。<b>不要查词典</b>，凭第一反应判断：这一行的词你是否都能自信说出意思？从第 1 行起连续"都认识"的行数决定估算值。</p>
-  <div id="vocab-rows"></div>
-</div>
-
-<div class="module card">
-  <h3>模块 B · 盲听测试（浏览器朗读）</h3>
-  <p class="small">点「▶ 播放」，每句最多听 2 遍，<b>不要看文本</b>，凭第一遍/第二遍的真实理解标记。四句难度递增：日常句 → 口语句 → 学术长句 → 习语快句。测试的句子里埋了连读、弱读与习语（如 <i>put off / a shot in the dark</i>），听不出习语不代表词汇量差——那正是接下来要练的。</p>
-  <div id="listen-rows"></div>
-</div>
-
-<div class="module card">
-  <h3>模块 C · 口语自评（对照官方评分标准）</h3>
-  <p class="small">诚实作答，每题想 10 秒。建议先花 1 分钟用手机录一段"我最近一周"的英语独白，回听后再答第 1、2 题。</p>
-  <div id="speak-rows"></div>
-</div>
-
-<div style="text-align:center;margin:24px 0">
-  <button class="btn" id="btn-result" style="font-size:17px;padding:12px 34px">生成我的定位结果 →</button>
-</div>
-
-<div class="card" id="result" style="display:none"></div>
-
-<h2>结果怎么用</h2>
-<ul class="steps">
-  <li><b>短板定档</b>：三个维度取最低档作为起点档——听力口语是木桶效应最明显的科目，用高分维度"带着"低分维度练不现实。</li>
-  <li><b>4 周重测</b>：进入档位页后每 4 周回来重测一次，档位动了就升档，没动就按档位页的"常见坑"排查。</li>
-  <li><b>更精确的替代</b>：拿一套剑桥真题按考试流程做听力（分数直接对应档位：30–32 = 7 分），比自评更硬核。本测试的优势是 3 分钟出结果且完全免费。</li>
-</ul>
-
-</main>
-
-<footer>
-  <p><b>听力口语 9 分训练营</b> · 本测试纯前端运行，结果只保存在你的浏览器本地。</p>
-  <p>词汇量参照值为机构综合估算（新东方在线、学为贵等），仅供定位参考；盲听模块使用浏览器内置语音，与真人录音存在差异。</p>
-</footer>
-
-<script src="assets/test.js"></script>
+<p>水平定位测试已迁移到 <a href="placement.html">placement.html</a>（本页仅作旧链接跳转）。</p>
+<script>location.replace("placement.html");</script>
 </body>
 </html>
