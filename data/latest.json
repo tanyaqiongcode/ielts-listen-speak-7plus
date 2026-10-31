@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:07:57.318231+00:00",
+  "updated": "2026-10-31T06:10:04.339723+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,13 +55,19 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8w5by.mp3"
         }
       ],
-      "fetched_at": "2026-10-30T20:07:57.318231+00:00"
+      "fetched_at": "2026-10-31T06:10:04.339723+00:00"
     },
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "link": "http://www.bbc.co.uk/programmes/p0pkkxk0",
+          "date": "Sat, 31 Oct 2026 05:01:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkkvq7.mp3"
+        },
         {
           "title": "Residents leave devastated Russian-occupied Oleshky",
           "link": "http://www.bbc.co.uk/programmes/p0pkhvpg",
@@ -103,15 +109,9 @@
           "link": "http://www.bbc.co.uk/programmes/p0pjwfwn",
           "date": "Tue, 27 Oct 2026 16:30:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjw48x.mp3"
-        },
-        {
-          "title": "Israel holds first election since October 7th attacks",
-          "link": "http://www.bbc.co.uk/programmes/p0pjrnd4",
-          "date": "Tue, 27 Oct 2026 05:28:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjrn53.mp3"
         }
       ],
-      "fetched_at": "2026-10-30T20:07:57.318231+00:00"
+      "fetched_at": "2026-10-31T06:10:04.339723+00:00"
     },
     {
       "id": "cnn10",
@@ -167,7 +167,7 @@
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2051038333.mp3"
         }
       ],
-      "fetched_at": "2026-10-30T20:07:57.318231+00:00"
+      "fetched_at": "2026-10-31T06:10:04.339723+00:00"
     }
   ]
 }
