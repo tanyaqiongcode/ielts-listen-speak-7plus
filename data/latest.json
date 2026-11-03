@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T06:40:00.366136+00:00",
+  "updated": "2026-11-03T07:09:07.962095+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,7 +55,7 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8w5by.mp3"
         }
       ],
-      "fetched_at": "2026-11-02T06:40:00.366136+00:00"
+      "fetched_at": "2026-11-03T07:09:07.962095+00:00"
     },
     {
       "id": "bbc-globalnews",
@@ -119,6 +119,12 @@
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
         {
+          "title": "FBI: North Korea Behind World’s Largest Cryptocurrency Heist",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5058391250.mp3",
+          "date": "Mon, 02 Nov 2026 19:22:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5058391250.mp3"
+        },
+        {
           "title": "The Spooktacular History Behind Halloween, Explained",
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2832696316.mp3",
           "date": "Fri, 30 Oct 2026 16:08:00 -0000",
@@ -159,15 +165,9 @@
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY9046817687.mp3",
           "date": "Thu, 22 Oct 2026 12:22:00 -0000",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY9046817687.mp3"
-        },
-        {
-          "title": "Why a Surprise Blood Clot Diagnosis Is Sidelining One of the Nfl’s Biggest Stars",
-          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2051038333.mp3",
-          "date": "Wed, 21 Oct 2026 13:15:00 -0000",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2051038333.mp3"
         }
       ],
-      "fetched_at": "2026-11-02T06:40:00.366136+00:00"
+      "fetched_at": "2026-11-03T07:09:07.962095+00:00"
     }
   ]
 }
