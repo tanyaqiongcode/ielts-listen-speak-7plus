@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T06:54:32.804577+00:00",
+  "updated": "2026-11-05T07:13:21.775827+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,13 +55,25 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8w5by.mp3"
         }
       ],
-      "fetched_at": "2026-11-04T06:54:32.804577+00:00"
+      "fetched_at": "2026-11-05T07:13:21.775827+00:00"
     },
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Trump blames Iran war for midterm defeat",
+          "link": "http://www.bbc.co.uk/programmes/p0plcn0g",
+          "date": "Thu, 05 Nov 2026 05:22:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plcmxt.mp3"
+        },
+        {
+          "title": "Democrats storm to success in US midterm elections",
+          "link": "http://www.bbc.co.uk/programmes/p0pl9nf9",
+          "date": "Wed, 04 Nov 2026 16:36:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl9mdm.mp3"
+        },
         {
           "title": "Democrats projected to take control of US Congress",
           "link": "http://www.bbc.co.uk/programmes/p0pl6m46",
@@ -97,27 +109,21 @@
           "link": "http://www.bbc.co.uk/programmes/p0pkpg0p",
           "date": "Sun, 01 Nov 2026 04:47:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkpfz4.mp3"
-        },
-        {
-          "title": "The Happy Pod: Personalised cancer vaccine shows promise in major trial",
-          "link": "http://www.bbc.co.uk/programmes/p0pkj52k",
-          "date": "Sat, 31 Oct 2026 12:00:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkj482.mp3"
-        },
-        {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "link": "http://www.bbc.co.uk/programmes/p0pkkxk0",
-          "date": "Sat, 31 Oct 2026 05:01:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkkvq7.mp3"
         }
       ],
-      "fetched_at": "2026-11-04T06:54:32.804577+00:00"
+      "fetched_at": "2026-11-05T07:13:21.775827+00:00"
     },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "These Drones Used to Track Sharks. Now They’re Searching for Koalas",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6190838655.mp3",
+          "date": "Wed, 04 Nov 2026 13:53:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6190838655.mp3"
+        },
         {
           "title": "After 1,711 Days Apart, Ukrainian Evacuees Reunite Thanks to Ceasefire Deal",
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2258265103.mp3",
@@ -159,15 +165,9 @@
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5535306404.mp3",
           "date": "Mon, 26 Oct 2026 14:06:00 -0000",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5535306404.mp3"
-        },
-        {
-          "title": "How This Burger Joint Is Surviving Record High Beef Prices",
-          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7776465562.mp3",
-          "date": "Fri, 23 Oct 2026 15:57:00 -0000",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7776465562.mp3"
         }
       ],
-      "fetched_at": "2026-11-04T06:54:32.804577+00:00"
+      "fetched_at": "2026-11-05T07:13:21.775827+00:00"
     }
   ]
 }
