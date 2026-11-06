@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-05T07:13:21.775827+00:00",
+  "updated": "2026-11-06T07:14:16.814569+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
       "name": "BBC 6 Minute English",
       "url": "https://podcasts.files.bbci.co.uk/p02pc9tn.rss",
       "items": [
+        {
+          "title": "Could vaccines cure cancer?",
+          "link": "http://www.bbc.co.uk/programmes/p0pldm3h",
+          "date": "Thu, 05 Nov 2026 09:36:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pldlfg.mp3"
+        },
         {
           "title": "Is aircon the answer to a heating world?",
           "link": "http://www.bbc.co.uk/programmes/p0pk7d0p",
@@ -47,21 +53,27 @@
           "link": "http://www.bbc.co.uk/programmes/p0pb0rd0",
           "date": "Thu, 17 Sep 2026 08:34:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb0qlf.mp3"
-        },
-        {
-          "title": "Can apps teach you a language?",
-          "link": "http://www.bbc.co.uk/programmes/p0p8w5sh",
-          "date": "Thu, 10 Sep 2026 07:46:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8w5by.mp3"
         }
       ],
-      "fetched_at": "2026-11-05T07:13:21.775827+00:00"
+      "fetched_at": "2026-11-06T07:14:16.814569+00:00"
     },
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Pete Hegseth under pressure after US elections",
+          "link": "http://www.bbc.co.uk/programmes/p0plk945",
+          "date": "Fri, 06 Nov 2026 05:39:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plk8hr.mp3"
+        },
+        {
+          "title": "Fresh mass protests in France",
+          "link": "http://www.bbc.co.uk/programmes/p0plh2tw",
+          "date": "Thu, 05 Nov 2026 16:22:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plh23f.mp3"
+        },
         {
           "title": "Trump blames Iran war for midterm defeat",
           "link": "http://www.bbc.co.uk/programmes/p0plcn0g",
@@ -97,27 +109,21 @@
           "link": "http://www.bbc.co.uk/programmes/p0pkww1f",
           "date": "Mon, 02 Nov 2026 16:31:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkwrw5.mp3"
-        },
-        {
-          "title": "Trump celebrates shock endorsement ahead of US midterms",
-          "link": "http://www.bbc.co.uk/programmes/p0pksmf2",
-          "date": "Mon, 02 Nov 2026 05:46:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pksm1b.mp3"
-        },
-        {
-          "title": "Violent protests in France for the third weekend in a row",
-          "link": "http://www.bbc.co.uk/programmes/p0pkpg0p",
-          "date": "Sun, 01 Nov 2026 04:47:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkpfz4.mp3"
         }
       ],
-      "fetched_at": "2026-11-05T07:13:21.775827+00:00"
+      "fetched_at": "2026-11-06T07:14:16.814569+00:00"
     },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "The Historic Firsts of the 2026 Midterm Election",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3155119095.mp3",
+          "date": "Thu, 05 Nov 2026 16:18:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3155119095.mp3"
+        },
         {
           "title": "These Drones Used to Track Sharks. Now They’re Searching for Koalas",
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6190838655.mp3",
@@ -159,15 +165,9 @@
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7956413658.mp3",
           "date": "Tue, 27 Oct 2026 14:37:00 -0000",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7956413658.mp3"
-        },
-        {
-          "title": "These Tiny Computer Chips Could Help Data Centers Waste Less Power",
-          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5535306404.mp3",
-          "date": "Mon, 26 Oct 2026 14:06:00 -0000",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5535306404.mp3"
         }
       ],
-      "fetched_at": "2026-11-05T07:13:21.775827+00:00"
+      "fetched_at": "2026-11-06T07:14:16.814569+00:00"
     }
   ]
 }
