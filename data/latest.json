@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T07:14:16.814569+00:00",
+  "updated": "2026-11-07T06:28:02.957226+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,13 +55,25 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb0qlf.mp3"
         }
       ],
-      "fetched_at": "2026-11-06T07:14:16.814569+00:00"
+      "fetched_at": "2026-11-07T06:28:02.957226+00:00"
     },
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Trump appoints new chief of staff after midterm defeat",
+          "link": "http://www.bbc.co.uk/programmes/p0plrs2j",
+          "date": "Sat, 07 Nov 2026 04:19:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plrs0b.mp3"
+        },
+        {
+          "title": "Tech stocks tank over AI panic",
+          "link": "http://www.bbc.co.uk/programmes/p0plnyvn",
+          "date": "Fri, 06 Nov 2026 16:06:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plnwcw.mp3"
+        },
         {
           "title": "Pete Hegseth under pressure after US elections",
           "link": "http://www.bbc.co.uk/programmes/p0plk945",
@@ -97,27 +109,21 @@
           "link": "http://www.bbc.co.uk/programmes/p0pl435f",
           "date": "Tue, 03 Nov 2026 16:45:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl42gf.mp3"
-        },
-        {
-          "title": "Ukraine accuses Russia of hitting school used as aid centre",
-          "link": "http://www.bbc.co.uk/programmes/p0pkz9jt",
-          "date": "Tue, 03 Nov 2026 05:32:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkz8zd.mp3"
-        },
-        {
-          "title": "Ukraine and Russia hit by fake emergency alerts",
-          "link": "http://www.bbc.co.uk/programmes/p0pkww1f",
-          "date": "Mon, 02 Nov 2026 16:31:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkwrw5.mp3"
         }
       ],
-      "fetched_at": "2026-11-06T07:14:16.814569+00:00"
+      "fetched_at": "2026-11-07T06:28:02.957226+00:00"
     },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "How Did Viking Graffiti Get Inside One of the World’s Most Famous Mosques?",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY1690811831.mp3",
+          "date": "Fri, 06 Nov 2026 15:45:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY1690811831.mp3"
+        },
         {
           "title": "The Historic Firsts of the 2026 Midterm Election",
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3155119095.mp3",
@@ -159,15 +165,9 @@
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7594466691.mp3",
           "date": "Wed, 28 Oct 2026 11:57:00 -0000",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7594466691.mp3"
-        },
-        {
-          "title": "America Welcomes Its 64th National Park in Arizona",
-          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7956413658.mp3",
-          "date": "Tue, 27 Oct 2026 14:37:00 -0000",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7956413658.mp3"
         }
       ],
-      "fetched_at": "2026-11-06T07:14:16.814569+00:00"
+      "fetched_at": "2026-11-07T06:28:02.957226+00:00"
     }
   ]
 }
