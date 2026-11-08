@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T06:28:02.957226+00:00",
+  "updated": "2026-11-08T06:34:17.068837+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,13 +55,25 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb0qlf.mp3"
         }
       ],
-      "fetched_at": "2026-11-07T06:28:02.957226+00:00"
+      "fetched_at": "2026-11-08T06:34:17.068837+00:00"
     },
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Poland in shock as six killed in shooting",
+          "link": "http://www.bbc.co.uk/programmes/p0plw73g",
+          "date": "Sun, 08 Nov 2026 04:44:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plw70f.mp3"
+        },
+        {
+          "title": "The Happy Pod: Celebrating the wedding that never happened",
+          "link": "http://www.bbc.co.uk/programmes/p0plplrh",
+          "date": "Sat, 07 Nov 2026 12:00:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3"
+        },
         {
           "title": "Trump appoints new chief of staff after midterm defeat",
           "link": "http://www.bbc.co.uk/programmes/p0plrs2j",
@@ -97,21 +109,9 @@
           "link": "http://www.bbc.co.uk/programmes/p0pl9nf9",
           "date": "Wed, 04 Nov 2026 16:36:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl9mdm.mp3"
-        },
-        {
-          "title": "Democrats projected to take control of US Congress",
-          "link": "http://www.bbc.co.uk/programmes/p0pl6m46",
-          "date": "Wed, 04 Nov 2026 05:51:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl6lg9.mp3"
-        },
-        {
-          "title": "Americans vote in pivotal midterm elections",
-          "link": "http://www.bbc.co.uk/programmes/p0pl435f",
-          "date": "Tue, 03 Nov 2026 16:45:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl42gf.mp3"
         }
       ],
-      "fetched_at": "2026-11-07T06:28:02.957226+00:00"
+      "fetched_at": "2026-11-08T06:34:17.068837+00:00"
     },
     {
       "id": "cnn10",
@@ -167,7 +167,7 @@
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7594466691.mp3"
         }
       ],
-      "fetched_at": "2026-11-07T06:28:02.957226+00:00"
+      "fetched_at": "2026-11-08T06:34:17.068837+00:00"
     }
   ]
 }
