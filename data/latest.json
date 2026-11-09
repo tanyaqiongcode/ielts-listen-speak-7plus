@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T06:34:17.068837+00:00",
+  "updated": "2026-11-09T07:03:18.510989+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,13 +55,25 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb0qlf.mp3"
         }
       ],
-      "fetched_at": "2026-11-08T06:34:17.068837+00:00"
+      "fetched_at": "2026-11-09T07:03:18.510989+00:00"
     },
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Nvidia investigates CEO's affair with suspected Chinese spy",
+          "link": "http://www.bbc.co.uk/programmes/p0plzjqt",
+          "date": "Mon, 09 Nov 2026 05:32:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plzjbf.mp3"
+        },
+        {
+          "title": "The Global Story: They fled Russia. The US sent them back",
+          "link": "http://www.bbc.co.uk/programmes/p0pllbwj",
+          "date": "Sun, 08 Nov 2026 20:00:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pllbml.mp3"
+        },
         {
           "title": "Poland in shock as six killed in shooting",
           "link": "http://www.bbc.co.uk/programmes/p0plw73g",
@@ -97,21 +109,9 @@
           "link": "http://www.bbc.co.uk/programmes/p0plh2tw",
           "date": "Thu, 05 Nov 2026 16:22:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plh23f.mp3"
-        },
-        {
-          "title": "Trump blames Iran war for midterm defeat",
-          "link": "http://www.bbc.co.uk/programmes/p0plcn0g",
-          "date": "Thu, 05 Nov 2026 05:22:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plcmxt.mp3"
-        },
-        {
-          "title": "Democrats storm to success in US midterm elections",
-          "link": "http://www.bbc.co.uk/programmes/p0pl9nf9",
-          "date": "Wed, 04 Nov 2026 16:36:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl9mdm.mp3"
         }
       ],
-      "fetched_at": "2026-11-08T06:34:17.068837+00:00"
+      "fetched_at": "2026-11-09T07:03:18.510989+00:00"
     },
     {
       "id": "cnn10",
@@ -167,7 +167,7 @@
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7594466691.mp3"
         }
       ],
-      "fetched_at": "2026-11-08T06:34:17.068837+00:00"
+      "fetched_at": "2026-11-09T07:03:18.510989+00:00"
     }
   ]
 }
