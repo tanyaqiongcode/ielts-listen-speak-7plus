@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T07:03:18.510989+00:00",
+  "updated": "2026-11-10T07:39:14.031305+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,7 +55,7 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb0qlf.mp3"
         }
       ],
-      "fetched_at": "2026-11-09T07:03:18.510989+00:00"
+      "fetched_at": "2026-11-10T07:39:14.031305+00:00"
     },
     {
       "id": "bbc-globalnews",
@@ -119,6 +119,12 @@
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
         {
+          "title": "Millions Celebrate Diwali: The Festival of Lights",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY1764563947.mp3",
+          "date": "Mon, 09 Nov 2026 12:49:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY1764563947.mp3"
+        },
+        {
           "title": "How Did Viking Graffiti Get Inside One of the World’s Most Famous Mosques?",
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY1690811831.mp3",
           "date": "Fri, 06 Nov 2026 15:45:00 -0000",
@@ -159,15 +165,9 @@
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6399124938.mp3",
           "date": "Thu, 29 Oct 2026 15:00:00 -0000",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6399124938.mp3"
-        },
-        {
-          "title": "How a Student-Led Movement Ousted Serbia’s Long-Term President",
-          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7594466691.mp3",
-          "date": "Wed, 28 Oct 2026 11:57:00 -0000",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7594466691.mp3"
         }
       ],
-      "fetched_at": "2026-11-09T07:03:18.510989+00:00"
+      "fetched_at": "2026-11-10T07:39:14.031305+00:00"
     }
   ]
 }
