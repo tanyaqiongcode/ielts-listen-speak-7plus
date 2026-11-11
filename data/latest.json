@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T07:39:14.031305+00:00",
+  "updated": "2026-11-11T06:58:19.259899+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,7 +55,7 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb0qlf.mp3"
         }
       ],
-      "fetched_at": "2026-11-10T07:39:14.031305+00:00"
+      "fetched_at": "2026-11-11T06:58:19.259899+00:00"
     },
     {
       "id": "bbc-globalnews",
@@ -119,6 +119,12 @@
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
         {
+          "title": "Meat Is Scarce in North Korea. So Why the BBQ Boom?",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY9655565042.mp3",
+          "date": "Tue, 10 Nov 2026 15:12:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY9655565042.mp3"
+        },
+        {
           "title": "Millions Celebrate Diwali: The Festival of Lights",
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY1764563947.mp3",
           "date": "Mon, 09 Nov 2026 12:49:00 -0000",
@@ -159,15 +165,9 @@
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2832696316.mp3",
           "date": "Fri, 30 Oct 2026 16:08:00 -0000",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2832696316.mp3"
-        },
-        {
-          "title": "Spain Investigates Deadly Collision Between Two High-Speed Trains",
-          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6399124938.mp3",
-          "date": "Thu, 29 Oct 2026 15:00:00 -0000",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6399124938.mp3"
         }
       ],
-      "fetched_at": "2026-11-10T07:39:14.031305+00:00"
+      "fetched_at": "2026-11-11T06:58:19.259899+00:00"
     }
   ]
 }
