@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T06:58:19.259899+00:00",
+  "updated": "2026-11-12T07:35:40.646720+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,13 +55,49 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb0qlf.mp3"
         }
       ],
-      "fetched_at": "2026-11-11T06:58:19.259899+00:00"
+      "fetched_at": "2026-11-12T07:35:40.646720+00:00"
     },
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Democrat Scott Colom wins Mississippi in historic victory",
+          "link": "http://www.bbc.co.uk/programmes/p0pmjmtq",
+          "date": "Thu, 12 Nov 2026 05:19:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmjmlw.mp3"
+        },
+        {
+          "title": "Russia-Ukraine talks: Prisoner release agreed",
+          "link": "http://www.bbc.co.uk/programmes/p0pmgsdd",
+          "date": "Wed, 11 Nov 2026 16:24:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmgrp4.mp3"
+        },
+        {
+          "title": "US soldier arrested in UK on suspicion of spying for Russia",
+          "link": "http://www.bbc.co.uk/programmes/p0pmcskb",
+          "date": "Wed, 11 Nov 2026 05:27:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmcsh6.mp3"
+        },
+        {
+          "title": "How US model agencies helped Epstein access victims",
+          "link": "http://www.bbc.co.uk/programmes/p0pm9szt",
+          "date": "Tue, 10 Nov 2026 15:47:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm9s2k.mp3"
+        },
+        {
+          "title": "Trump backs Hegseth as he faces impeachment push",
+          "link": "http://www.bbc.co.uk/programmes/p0pm6qtr",
+          "date": "Tue, 10 Nov 2026 05:19:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm6qfc.mp3"
+        },
+        {
+          "title": "China denies spying on Nvidia boss",
+          "link": "http://www.bbc.co.uk/programmes/p0pm36r2",
+          "date": "Mon, 09 Nov 2026 15:29:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm35rk.mp3"
+        },
         {
           "title": "Nvidia investigates CEO's affair with suspected Chinese spy",
           "link": "http://www.bbc.co.uk/programmes/p0plzjqt",
@@ -73,51 +109,21 @@
           "link": "http://www.bbc.co.uk/programmes/p0pllbwj",
           "date": "Sun, 08 Nov 2026 20:00:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pllbml.mp3"
-        },
-        {
-          "title": "Poland in shock as six killed in shooting",
-          "link": "http://www.bbc.co.uk/programmes/p0plw73g",
-          "date": "Sun, 08 Nov 2026 04:44:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plw70f.mp3"
-        },
-        {
-          "title": "The Happy Pod: Celebrating the wedding that never happened",
-          "link": "http://www.bbc.co.uk/programmes/p0plplrh",
-          "date": "Sat, 07 Nov 2026 12:00:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3"
-        },
-        {
-          "title": "Trump appoints new chief of staff after midterm defeat",
-          "link": "http://www.bbc.co.uk/programmes/p0plrs2j",
-          "date": "Sat, 07 Nov 2026 04:19:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plrs0b.mp3"
-        },
-        {
-          "title": "Tech stocks tank over AI panic",
-          "link": "http://www.bbc.co.uk/programmes/p0plnyvn",
-          "date": "Fri, 06 Nov 2026 16:06:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plnwcw.mp3"
-        },
-        {
-          "title": "Pete Hegseth under pressure after US elections",
-          "link": "http://www.bbc.co.uk/programmes/p0plk945",
-          "date": "Fri, 06 Nov 2026 05:39:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plk8hr.mp3"
-        },
-        {
-          "title": "Fresh mass protests in France",
-          "link": "http://www.bbc.co.uk/programmes/p0plh2tw",
-          "date": "Thu, 05 Nov 2026 16:22:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plh23f.mp3"
         }
       ],
-      "fetched_at": "2026-11-09T07:03:18.510989+00:00"
+      "fetched_at": "2026-11-12T07:35:40.646720+00:00"
     },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "Why a History-Making Ocean Liner Is Being Sunk on Purpose",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6932755406.mp3",
+          "date": "Wed, 11 Nov 2026 14:51:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6932755406.mp3"
+        },
         {
           "title": "Meat Is Scarce in North Korea. So Why the BBQ Boom?",
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY9655565042.mp3",
@@ -159,15 +165,9 @@
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5058391250.mp3",
           "date": "Mon, 02 Nov 2026 19:22:00 -0000",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5058391250.mp3"
-        },
-        {
-          "title": "The Spooktacular History Behind Halloween, Explained",
-          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2832696316.mp3",
-          "date": "Fri, 30 Oct 2026 16:08:00 -0000",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2832696316.mp3"
         }
       ],
-      "fetched_at": "2026-11-11T06:58:19.259899+00:00"
+      "fetched_at": "2026-11-12T07:35:40.646720+00:00"
     }
   ]
 }
