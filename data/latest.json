@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-12T07:35:40.646720+00:00",
+  "updated": "2026-11-13T07:06:04.025820+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
       "name": "BBC 6 Minute English",
       "url": "https://podcasts.files.bbci.co.uk/p02pc9tn.rss",
       "items": [
+        {
+          "title": "Learning from different generations",
+          "link": "http://www.bbc.co.uk/programmes/p0pmkr5c",
+          "date": "Thu, 12 Nov 2026 09:59:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmkqml.mp3"
+        },
         {
           "title": "Could vaccines cure cancer?",
           "link": "http://www.bbc.co.uk/programmes/p0pldm3h",
@@ -47,21 +53,27 @@
           "link": "http://www.bbc.co.uk/programmes/p0pc61lm",
           "date": "Thu, 24 Sep 2026 07:47:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc618w.mp3"
-        },
-        {
-          "title": "Is rejection good for us?",
-          "link": "http://www.bbc.co.uk/programmes/p0pb0rd0",
-          "date": "Thu, 17 Sep 2026 08:34:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb0qlf.mp3"
         }
       ],
-      "fetched_at": "2026-11-12T07:35:40.646720+00:00"
+      "fetched_at": "2026-11-13T07:06:04.025820+00:00"
     },
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Putin lets Europe join Ukraine peace talks",
+          "link": "http://www.bbc.co.uk/programmes/p0pmr8st",
+          "date": "Fri, 13 Nov 2026 05:28:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmr8dk.mp3"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang resigns",
+          "link": "http://www.bbc.co.uk/programmes/p0pmn84n",
+          "date": "Thu, 12 Nov 2026 16:07:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmn5x9.mp3"
+        },
         {
           "title": "Democrat Scott Colom wins Mississippi in historic victory",
           "link": "http://www.bbc.co.uk/programmes/p0pmjmtq",
@@ -97,27 +109,21 @@
           "link": "http://www.bbc.co.uk/programmes/p0pm36r2",
           "date": "Mon, 09 Nov 2026 15:29:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm35rk.mp3"
-        },
-        {
-          "title": "Nvidia investigates CEO's affair with suspected Chinese spy",
-          "link": "http://www.bbc.co.uk/programmes/p0plzjqt",
-          "date": "Mon, 09 Nov 2026 05:32:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plzjbf.mp3"
-        },
-        {
-          "title": "The Global Story: They fled Russia. The US sent them back",
-          "link": "http://www.bbc.co.uk/programmes/p0pllbwj",
-          "date": "Sun, 08 Nov 2026 20:00:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pllbml.mp3"
         }
       ],
-      "fetched_at": "2026-11-12T07:35:40.646720+00:00"
+      "fetched_at": "2026-11-13T07:06:04.025820+00:00"
     },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "US Traffic Fatalities Reach Their Lowest Point in More Than a Decade",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY8258533932.mp3",
+          "date": "Thu, 12 Nov 2026 14:10:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY8258533932.mp3"
+        },
         {
           "title": "Why a History-Making Ocean Liner Is Being Sunk on Purpose",
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6932755406.mp3",
@@ -159,15 +165,9 @@
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2258265103.mp3",
           "date": "Tue, 03 Nov 2026 12:55:00 -0000",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2258265103.mp3"
-        },
-        {
-          "title": "FBI: North Korea Behind World’s Largest Cryptocurrency Heist",
-          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5058391250.mp3",
-          "date": "Mon, 02 Nov 2026 19:22:00 -0000",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5058391250.mp3"
         }
       ],
-      "fetched_at": "2026-11-12T07:35:40.646720+00:00"
+      "fetched_at": "2026-11-13T07:06:04.025820+00:00"
     }
   ]
 }
