@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T07:06:04.025820+00:00",
+  "updated": "2026-11-14T06:54:52.323630+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,13 +55,25 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc618w.mp3"
         }
       ],
-      "fetched_at": "2026-11-13T07:06:04.025820+00:00"
+      "fetched_at": "2026-11-14T06:54:52.323630+00:00"
     },
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "US airspace reopens after flights grounded for several hours",
+          "link": "http://www.bbc.co.uk/programmes/p0pmzyrg",
+          "date": "Sat, 14 Nov 2026 04:41:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmzy3x.mp3"
+        },
+        {
+          "title": "Microsoft outage: Millions affected in over 70 countries",
+          "link": "http://www.bbc.co.uk/programmes/p0pmwsp6",
+          "date": "Fri, 13 Nov 2026 15:51:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmwqby.mp3"
+        },
         {
           "title": "Putin lets Europe join Ukraine peace talks",
           "link": "http://www.bbc.co.uk/programmes/p0pmr8st",
@@ -97,27 +109,21 @@
           "link": "http://www.bbc.co.uk/programmes/p0pm9szt",
           "date": "Tue, 10 Nov 2026 15:47:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm9s2k.mp3"
-        },
-        {
-          "title": "Trump backs Hegseth as he faces impeachment push",
-          "link": "http://www.bbc.co.uk/programmes/p0pm6qtr",
-          "date": "Tue, 10 Nov 2026 05:19:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm6qfc.mp3"
-        },
-        {
-          "title": "China denies spying on Nvidia boss",
-          "link": "http://www.bbc.co.uk/programmes/p0pm36r2",
-          "date": "Mon, 09 Nov 2026 15:29:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm35rk.mp3"
         }
       ],
-      "fetched_at": "2026-11-13T07:06:04.025820+00:00"
+      "fetched_at": "2026-11-14T06:54:52.323630+00:00"
     },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "A Desk Drawer Discovery Sheds New Light on 'I Have a Dream' Speech",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY4632923948.mp3",
+          "date": "Fri, 13 Nov 2026 15:37:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY4632923948.mp3"
+        },
         {
           "title": "US Traffic Fatalities Reach Their Lowest Point in More Than a Decade",
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY8258533932.mp3",
@@ -159,15 +165,9 @@
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6190838655.mp3",
           "date": "Wed, 04 Nov 2026 13:53:00 -0000",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6190838655.mp3"
-        },
-        {
-          "title": "After 1,711 Days Apart, Ukrainian Evacuees Reunite Thanks to Ceasefire Deal",
-          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2258265103.mp3",
-          "date": "Tue, 03 Nov 2026 12:55:00 -0000",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2258265103.mp3"
         }
       ],
-      "fetched_at": "2026-11-13T07:06:04.025820+00:00"
+      "fetched_at": "2026-11-14T06:54:52.323630+00:00"
     }
   ]
 }
