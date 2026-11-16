@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T07:00:52.282169+00:00",
+  "updated": "2026-11-16T07:08:16.999631+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,7 +55,7 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc618w.mp3"
         }
       ],
-      "fetched_at": "2026-11-15T07:00:52.282169+00:00"
+      "fetched_at": "2026-11-16T07:08:16.999631+00:00"
     },
     {
       "id": "bbc-globalnews",
@@ -167,7 +167,7 @@
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6190838655.mp3"
         }
       ],
-      "fetched_at": "2026-11-15T07:00:52.282169+00:00"
+      "fetched_at": "2026-11-16T07:08:16.999631+00:00"
     }
   ]
 }
