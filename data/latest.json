@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T08:21:30.649853+00:00",
+  "updated": "2026-11-18T07:51:23.851165+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,7 +55,7 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc618w.mp3"
         }
       ],
-      "fetched_at": "2026-11-17T08:21:30.649853+00:00"
+      "fetched_at": "2026-11-18T07:51:23.851165+00:00"
     },
     {
       "id": "bbc-globalnews",
@@ -63,61 +63,67 @@
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
         {
-          "title": "US airspace reopens after flights grounded for several hours",
-          "link": "http://www.bbc.co.uk/programmes/p0pmzyrg",
-          "date": "Sat, 14 Nov 2026 04:41:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmzy3x.mp3"
+          "title": "Nvidia rules out return for disgraced boss",
+          "link": "http://www.bbc.co.uk/programmes/p0pnjy0q",
+          "date": "Wed, 18 Nov 2026 05:26:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnjxxc.mp3"
         },
         {
-          "title": "Microsoft outage: Millions affected in over 70 countries",
-          "link": "http://www.bbc.co.uk/programmes/p0pmwsp6",
-          "date": "Fri, 13 Nov 2026 15:51:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmwqby.mp3"
+          "title": "Special episode: Trump, Putin and Xi meeting",
+          "link": "http://www.bbc.co.uk/programmes/p0pnhq1p",
+          "date": "Tue, 17 Nov 2026 20:00:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnhmvc.mp3"
         },
         {
-          "title": "Putin lets Europe join Ukraine peace talks",
-          "link": "http://www.bbc.co.uk/programmes/p0pmr8st",
-          "date": "Fri, 13 Nov 2026 05:28:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmr8dk.mp3"
+          "title": "Red carpet for Trump in Asia",
+          "link": "http://www.bbc.co.uk/programmes/p0pngj3s",
+          "date": "Tue, 17 Nov 2026 16:10:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pngg1l.mp3"
         },
         {
-          "title": "Nvidia CEO Jensen Huang resigns",
-          "link": "http://www.bbc.co.uk/programmes/p0pmn84n",
-          "date": "Thu, 12 Nov 2026 16:07:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmn5x9.mp3"
+          "title": "OpenAI sued by California over rogue cyber attacks",
+          "link": "http://www.bbc.co.uk/programmes/p0pnc231",
+          "date": "Tue, 17 Nov 2026 05:35:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnc1vp.mp3"
         },
         {
-          "title": "Democrat Scott Colom wins Mississippi in historic victory",
-          "link": "http://www.bbc.co.uk/programmes/p0pmjmtq",
-          "date": "Thu, 12 Nov 2026 05:19:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmjmlw.mp3"
+          "title": "Crimea Kerch Bridge hit in a huge Ukrainian drone attack",
+          "link": "http://www.bbc.co.uk/programmes/p0pn98q4",
+          "date": "Mon, 16 Nov 2026 16:25:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn97sf.mp3"
         },
         {
-          "title": "Russia-Ukraine talks: Prisoner release agreed",
-          "link": "http://www.bbc.co.uk/programmes/p0pmgsdd",
-          "date": "Wed, 11 Nov 2026 16:24:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmgrp4.mp3"
+          "title": "Government forces retreat in Yemen",
+          "link": "http://www.bbc.co.uk/programmes/p0pn65z8",
+          "date": "Mon, 16 Nov 2026 05:48:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn65f7.mp3"
         },
         {
-          "title": "US soldier arrested in UK on suspicion of spying for Russia",
-          "link": "http://www.bbc.co.uk/programmes/p0pmcskb",
-          "date": "Wed, 11 Nov 2026 05:27:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmcsh6.mp3"
+          "title": "The Global Story: How North Korea pulled off a $6bn heist",
+          "link": "http://www.bbc.co.uk/programmes/p0pmv9b1",
+          "date": "Sun, 15 Nov 2026 20:00:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmv7s7.mp3"
         },
         {
-          "title": "How US model agencies helped Epstein access victims",
-          "link": "http://www.bbc.co.uk/programmes/p0pm9szt",
-          "date": "Tue, 10 Nov 2026 15:47:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm9s2k.mp3"
+          "title": "SpaceX makes history catching part of returning spacecraft",
+          "link": "http://www.bbc.co.uk/programmes/p0pn35d7",
+          "date": "Sun, 15 Nov 2026 04:59:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn353v.mp3"
         }
       ],
-      "fetched_at": "2026-11-14T06:54:52.323630+00:00"
+      "fetched_at": "2026-11-18T07:51:23.851165+00:00"
     },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "Spacex’s Starship Makes History With Midair Catch Upon Return to Earth",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3321612276.mp3",
+          "date": "Tue, 17 Nov 2026 12:56:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3321612276.mp3"
+        },
         {
           "title": "A Rare Nationwide Ground Stop Brings All US Air Traffic to a Standstill",
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY4210096965.mp3",
@@ -159,15 +165,9 @@
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY1690811831.mp3",
           "date": "Fri, 06 Nov 2026 15:45:00 -0000",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY1690811831.mp3"
-        },
-        {
-          "title": "The Historic Firsts of the 2026 Midterm Election",
-          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3155119095.mp3",
-          "date": "Thu, 05 Nov 2026 16:18:00 -0000",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3155119095.mp3"
         }
       ],
-      "fetched_at": "2026-11-17T08:21:30.649853+00:00"
+      "fetched_at": "2026-11-18T07:51:23.851165+00:00"
     }
   ]
 }
