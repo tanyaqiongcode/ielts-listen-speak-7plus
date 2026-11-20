@@ -20,6 +20,16 @@ jobs:
       - name: Unit tests (Node, 含 XSS 回归)
         run: node --test
 
+      - name: core.js 与高口站同源校验（两站约定字节级同源，分叉即红）
+        run: |
+          mine=$(shasum -a 256 assets/core.js | cut -d' ' -f1)
+          theirs=$(curl -fsSL https://raw.githubusercontent.com/tanyaqiongcode/sia-spring2027/main/assets/core.js | shasum -a 256 | cut -d' ' -f1)
+          if [ "$mine" != "$theirs" ]; then
+            echo "::error::assets/core.js 与 sia-spring2027 出现分叉。两站约定 core.js 字节级同源复用，请先比对两份文件、对齐后再合并。"
+            exit 1
+          fi
+          echo "core.js 同源校验通过（sha256 一致）"
+
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
