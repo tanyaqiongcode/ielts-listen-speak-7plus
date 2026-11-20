@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-19T07:47:38.036206+00:00",
+  "updated": "2026-11-20T07:39:54.725922+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
       "name": "BBC 6 Minute English",
       "url": "https://podcasts.files.bbci.co.uk/p02pc9tn.rss",
       "items": [
+        {
+          "title": "Are microplastics harming us?",
+          "link": "http://www.bbc.co.uk/programmes/p0pnt62q",
+          "date": "Thu, 19 Nov 2026 10:07:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnsz8p.mp3"
+        },
         {
           "title": "Learning from different generations",
           "link": "http://www.bbc.co.uk/programmes/p0pmkr5c",
@@ -47,21 +53,27 @@
           "link": "http://www.bbc.co.uk/programmes/p0pdc9cq",
           "date": "Thu, 01 Oct 2026 09:47:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdc7mz.mp3"
-        },
-        {
-          "title": "Why do we itch?",
-          "link": "http://www.bbc.co.uk/programmes/p0pc61lm",
-          "date": "Thu, 24 Sep 2026 07:47:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc618w.mp3"
         }
       ],
-      "fetched_at": "2026-11-19T07:47:38.036206+00:00"
+      "fetched_at": "2026-11-20T07:39:54.725922+00:00"
     },
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Abusers convicted in Joanne Young case echoing Pelicot",
+          "link": "http://www.bbc.co.uk/programmes/p0pnyk0h",
+          "date": "Fri, 20 Nov 2026 05:33:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnyjht.mp3"
+        },
+        {
+          "title": "UN court says Myanmar committed genocide against Rohingyas",
+          "link": "http://www.bbc.co.uk/programmes/p0pnw5rb",
+          "date": "Thu, 19 Nov 2026 16:03:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnw2mf.mp3"
+        },
         {
           "title": "BBC reports from Ukraine's undergound frontier",
           "link": "http://www.bbc.co.uk/programmes/p0pnrndj",
@@ -97,27 +109,21 @@
           "link": "http://www.bbc.co.uk/programmes/p0pnc231",
           "date": "Tue, 17 Nov 2026 05:35:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnc1vp.mp3"
-        },
-        {
-          "title": "Crimea Kerch Bridge hit in a huge Ukrainian drone attack",
-          "link": "http://www.bbc.co.uk/programmes/p0pn98q4",
-          "date": "Mon, 16 Nov 2026 16:25:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn97sf.mp3"
-        },
-        {
-          "title": "Government forces retreat in Yemen",
-          "link": "http://www.bbc.co.uk/programmes/p0pn65z8",
-          "date": "Mon, 16 Nov 2026 05:48:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn65f7.mp3"
         }
       ],
-      "fetched_at": "2026-11-19T07:47:38.036206+00:00"
+      "fetched_at": "2026-11-20T07:39:54.725922+00:00"
     },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "How a California Freeway Ban Could Impact a Self-Driving Car Company",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3862194444.mp3",
+          "date": "Thu, 19 Nov 2026 14:25:00 -0000",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3862194444.mp3"
+        },
         {
           "title": "A New Octopus Study Spotlights Nature’s Most Extreme Escape Artists",
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7345720081.mp3",
@@ -159,15 +165,9 @@
           "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY9655565042.mp3",
           "date": "Tue, 10 Nov 2026 15:12:00 -0000",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY9655565042.mp3"
-        },
-        {
-          "title": "Millions Celebrate Diwali: The Festival of Lights",
-          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY1764563947.mp3",
-          "date": "Mon, 09 Nov 2026 12:49:00 -0000",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY1764563947.mp3"
         }
       ],
-      "fetched_at": "2026-11-19T07:47:38.036206+00:00"
+      "fetched_at": "2026-11-20T07:39:54.725922+00:00"
     }
   ]
 }
