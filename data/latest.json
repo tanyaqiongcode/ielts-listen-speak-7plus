@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T08:02:17.676671+00:00",
+  "updated": "2026-11-24T10:19:31.673238+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
@@ -55,13 +55,37 @@
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdc7mz.mp3"
         }
       ],
-      "fetched_at": "2026-11-23T08:02:17.676671+00:00"
+      "fetched_at": "2026-11-24T10:19:31.673238+00:00"
     },
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Stock markets jump after Nvidia boss reinstated",
+          "link": "http://www.bbc.co.uk/programmes/p0ppkqn5",
+          "date": "Tue, 24 Nov 2026 05:48:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppkq65.mp3"
+        },
+        {
+          "title": "Jensen Huang reinstated as Nvidia CEO",
+          "link": "http://www.bbc.co.uk/programmes/p0pphgd5",
+          "date": "Mon, 23 Nov 2026 16:08:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pphdx7.mp3"
+        },
+        {
+          "title": "COP31 in Turkey ends without a deal",
+          "link": "http://www.bbc.co.uk/programmes/p0ppdfkn",
+          "date": "Mon, 23 Nov 2026 05:48:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppdf4f.mp3"
+        },
+        {
+          "title": "The Global Story: AI can imitate a human. But can it think like one?",
+          "link": "http://www.bbc.co.uk/programmes/p0pp0406",
+          "date": "Sun, 22 Nov 2026 20:00:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp03f4.mp3"
+        },
         {
           "title": "Deadlock at UN climate summit in Turkey",
           "link": "http://www.bbc.co.uk/programmes/p0pp9hxv",
@@ -85,33 +109,9 @@
           "link": "http://www.bbc.co.uk/programmes/p0pp3pln",
           "date": "Fri, 20 Nov 2026 15:29:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp3ndk.mp3"
-        },
-        {
-          "title": "Abusers convicted in Joanne Young case echoing Pelicot",
-          "link": "http://www.bbc.co.uk/programmes/p0pnyk0h",
-          "date": "Fri, 20 Nov 2026 05:33:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnyjht.mp3"
-        },
-        {
-          "title": "UN court says Myanmar committed genocide against Rohingyas",
-          "link": "http://www.bbc.co.uk/programmes/p0pnw5rb",
-          "date": "Thu, 19 Nov 2026 16:03:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnw2mf.mp3"
-        },
-        {
-          "title": "BBC reports from Ukraine's undergound frontier",
-          "link": "http://www.bbc.co.uk/programmes/p0pnrndj",
-          "date": "Thu, 19 Nov 2026 05:19:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnrnb6.mp3"
-        },
-        {
-          "title": "Trump, Xi and Putin meet in China",
-          "link": "http://www.bbc.co.uk/programmes/p0pnndk4",
-          "date": "Wed, 18 Nov 2026 15:43:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnncvn.mp3"
         }
       ],
-      "fetched_at": "2026-11-22T07:19:00.079454+00:00"
+      "fetched_at": "2026-11-24T10:19:31.673238+00:00"
     },
     {
       "id": "cnn10",
@@ -167,7 +167,7 @@
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6932755406.mp3"
         }
       ],
-      "fetched_at": "2026-11-23T08:02:17.676671+00:00"
+      "fetched_at": "2026-11-24T10:19:31.673238+00:00"
     }
   ]
 }
