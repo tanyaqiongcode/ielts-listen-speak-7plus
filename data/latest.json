@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-26T08:47:30.882104+00:00",
+  "updated": "2026-11-27T08:57:53.690738+00:00",
   "feeds": [
     {
       "id": "bbc-6me",
       "name": "BBC 6 Minute English",
       "url": "https://podcasts.files.bbci.co.uk/p02pc9tn.rss",
       "items": [
+        {
+          "title": "Is Gen Z getting less intelligent?",
+          "link": "http://www.bbc.co.uk/programmes/p0ppzy2r",
+          "date": "Thu, 26 Nov 2026 09:31:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppzxv4.mp3"
+        },
         {
           "title": "Are microplastics harming us?",
           "link": "http://www.bbc.co.uk/programmes/p0pnt62q",
@@ -47,21 +53,39 @@
           "link": "http://www.bbc.co.uk/programmes/p0pflmn5",
           "date": "Thu, 08 Oct 2026 08:28:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfllv6.mp3"
-        },
-        {
-          "title": "Why does heartbreak hurt so much?",
-          "link": "http://www.bbc.co.uk/programmes/p0pdc9cq",
-          "date": "Thu, 01 Oct 2026 09:47:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdc7mz.mp3"
         }
       ],
-      "fetched_at": "2026-11-26T08:47:30.882104+00:00"
+      "fetched_at": "2026-11-27T08:57:53.690738+00:00"
     },
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "President Zelensky voices his frustration with the US",
+          "link": "http://www.bbc.co.uk/programmes/p0pq5lhm",
+          "date": "Fri, 27 Nov 2026 05:20:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq5lc7.mp3"
+        },
+        {
+          "title": "Net migration to UK at lowest level since 1997",
+          "link": "http://www.bbc.co.uk/programmes/p0pq2ymt",
+          "date": "Thu, 26 Nov 2026 16:09:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq2tz0.mp3"
+        },
+        {
+          "title": "Trump approves Elon Musk's plan for data centres in space",
+          "link": "http://www.bbc.co.uk/programmes/p0ppz1kd",
+          "date": "Thu, 26 Nov 2026 05:34:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppz1cj.mp3"
+        },
+        {
+          "title": "US announces new tariffs on China and other countries",
+          "link": "http://www.bbc.co.uk/programmes/p0ppwqrn",
+          "date": "Wed, 25 Nov 2026 16:47:00 +0000",
+          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppwplz.mp3"
+        },
         {
           "title": "Huawei has been found guilty of bank fraud in the US",
           "link": "http://www.bbc.co.uk/programmes/p0pprc4x",
@@ -85,33 +109,9 @@
           "link": "http://www.bbc.co.uk/programmes/p0pphgd5",
           "date": "Mon, 23 Nov 2026 16:08:00 +0000",
           "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pphdx7.mp3"
-        },
-        {
-          "title": "COP31 in Turkey ends without a deal",
-          "link": "http://www.bbc.co.uk/programmes/p0ppdfkn",
-          "date": "Mon, 23 Nov 2026 05:48:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppdf4f.mp3"
-        },
-        {
-          "title": "The Global Story: AI can imitate a human. But can it think like one?",
-          "link": "http://www.bbc.co.uk/programmes/p0pp0406",
-          "date": "Sun, 22 Nov 2026 20:00:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp03f4.mp3"
-        },
-        {
-          "title": "Deadlock at UN climate summit in Turkey",
-          "link": "http://www.bbc.co.uk/programmes/p0pp9hxv",
-          "date": "Sun, 22 Nov 2026 04:48:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp9hr7.mp3"
-        },
-        {
-          "title": "The Happy Pod: The 'amazing’ device that controls Tourette's",
-          "link": "http://www.bbc.co.uk/programmes/p0pp4d5y",
-          "date": "Sat, 21 Nov 2026 12:00:00 +0000",
-          "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4c96.mp3"
         }
       ],
-      "fetched_at": "2026-11-25T08:59:57.178047+00:00"
+      "fetched_at": "2026-11-27T08:57:53.690738+00:00"
     },
     {
       "id": "cnn10",
@@ -167,7 +167,7 @@
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY6932755406.mp3"
         }
       ],
-      "fetched_at": "2026-11-26T08:47:30.882104+00:00"
+      "fetched_at": "2026-11-27T08:57:53.690738+00:00"
     }
   ]
 }
